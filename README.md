@@ -69,3 +69,4 @@ Cara Instalasi Sistem Ini Pada Komputer/Laptop/Netbook
 - Lalu buat database pada PHPMyadmin klik tombol export arahkan file .sql pada folder yang telah kita sediakan
 - lalu buka browser (bisa menggunakan chrome,firefox,atau lainnya) dan ketikkan pada browser http://localhost/nama-folder-kamu
 # websekolah2
+# websekolah2
